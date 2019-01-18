@@ -25,4 +25,10 @@ C standard library
 class & object
 understanding about oop
 ```
-
+## 2019.1.19 Chapter 4. Class(Complete)
+```
+information hiding(private)
+encapsulation
+constuctor & destructor
+class & array & this pointer
+```
