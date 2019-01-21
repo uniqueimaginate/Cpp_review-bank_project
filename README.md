@@ -32,3 +32,9 @@ encapsulation
 constuctor & destructor
 class & array & this pointer
 ```
+## 2019.1.21 Chapter 5. Copy_Constructor
+```
+copy_constructor
+deep_copy & shallow_copy
+copy_constructor called
+```
