@@ -38,3 +38,17 @@ copy_constructor
 deep_copy & shallow_copy
 copy_constructor called
 ```
+## 2019.1.21 Chapter 6. const, friend, static
+```
+# There is no exercise problem in this chapter
+const
+friend
+static
+```
+## 2019.1.22 Chapter 7. Inheritance
+```
+understanding inheritance(basic)
+protected
+three types of inheritance
+conditions of inheritance
+```
