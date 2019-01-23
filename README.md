@@ -52,3 +52,9 @@ protected
 three types of inheritance
 conditions of inheritance
 ```
+## 2019.1.23 Chapter 8. Inheritance & Polymorphism
+```
+object pointer
+virtual function
+virtual destructor
+```
