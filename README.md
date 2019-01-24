@@ -58,3 +58,17 @@ object pointer
 virtual function
 virtual destructor
 ```
+## 2019.1.24 Chapter 9. Virtual & Multiple inheritance
+```
+# There is no exercise problem in this chapter
+```
+member function & virtual function
+multiple inheritance
+```
+## 2019.1.24 Chapter 10. Operator Overloading 1
+```
+understanding operator overloading
+unary operator overloading
+commutative law
+cout, cin, endl
+```
