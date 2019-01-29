@@ -72,3 +72,13 @@ unary operator overloading
 commutative law
 cout, cin, endl
 ```
+## 2019.1.29 Chapter 11. Operator Overloading 2
+```
+'=' operator ovrloading
+array index [] overloading
+other overloading
+```
+## 2019.1.29 Chapter 12. String
+```
+string class
+```
