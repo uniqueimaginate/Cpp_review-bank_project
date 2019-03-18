@@ -61,7 +61,6 @@ virtual destructor
 ## 2019.1.24 Chapter 9. Virtual & Multiple inheritance
 ```
 # There is no exercise problem in this chapter
-```
 member function & virtual function
 multiple inheritance
 ```
@@ -81,4 +80,32 @@ other overloading
 ## 2019.1.29 Chapter 12. String
 ```
 string class
+```
+## 2019.1.30 Chapter 13. Template 1
+```
+understanding of template & function template
+class template
+```
+## 2019.1.30 Chapter 14. Template 2
+```
+# There is no exercise problem in this chapter
+class template specialization
+template argument
+template & static
+```
+## 2019.3.18 Chapter 15. Exception Handling
+```
+# There is no exercise problem in this chapter
+understanding of exception
+mechanism of exception handling in C++
+stack unwinding
+exception class
+```
+## 2019.3.18 Chapter 16.Type Casting
+```
+# There is no exercise problem in this chapter
+dynamic_cast
+static_cast
+const_cast
+reinterpret_cast
 ```
